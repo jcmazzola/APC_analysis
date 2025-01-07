@@ -1,3 +1,3 @@
-# A Statistical Analysis of UConn Field Hockey Penalty Corners: Evaluating Key Performance Factors 
+# A Statistical Analysis of UConn Field Hockey Attacking Penalty Corners
 
-Analysis of UConn Field Hockey's attacking penalty corner performance. 
+
